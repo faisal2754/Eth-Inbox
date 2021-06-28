@@ -1,4 +1,5 @@
 # Inbox
+[![Build Status](https://travis-ci.com/faisal2754/Eth-Inbox.svg?branch=main)](https://travis-ci.com/faisal2754/Eth-Inbox)
 
 ## Technologies
 - Javascript
